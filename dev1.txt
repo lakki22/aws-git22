@@ -1,0 +1,10 @@
+Hi,
+This is a file creating in dev1 branch
+Adding few more coding
+class sample {
+public static void main(args [])
+{
+system.out.println("Hello aws");
+}
+
+}
