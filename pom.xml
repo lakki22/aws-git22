@@ -6,8 +6,8 @@
 
 	<groupId>com.hello-world</groupId>
 	<artifactId>AwsGit</artifactId>
-	<version>3.0</version>
-	<packaging>jar</packaging>
+	<version>4.0</version>
+	<packaging>war</packaging>
 
 	<dependencies>
 	   
